@@ -6,8 +6,8 @@ int main(void) {
 int pattern;
 int height;
 
-pattern = get_int("Enter type of pattern (1 or 2) ");
-height = get_int("Number of rows ");
+pattern = get_int("Enter type of pattern (1 or 2)");
+height = get_int("Number of rows");
 
 if (pattern==1) {
  
