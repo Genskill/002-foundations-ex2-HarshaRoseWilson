@@ -9,7 +9,7 @@ int height;
 pattern = get_int("Enter type of pattern (1 or 2)\n");
 height = get_int("Number of rows\n");
 
-if (pattern==1) {
+if (pattern=1) {
  
  for (int row=1;row<=height;row++) {
       
